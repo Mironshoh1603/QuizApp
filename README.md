@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-![alt text]("/assets/images/img1.png")
-![alt text]("assets/images/img2.png")
-![alt text]("../assets/images/img3.png")
+![alt text](/assets/images/img1.png)
+![alt text](/assets/images/img2.png)
+![alt text](./assets/images/img3.png)
 
 ## Getting Started
 
